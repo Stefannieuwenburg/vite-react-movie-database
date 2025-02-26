@@ -13,5 +13,6 @@
 - GitHub
 - key project white uuidv4
 
-
+# Run:
+npm run dev
 
